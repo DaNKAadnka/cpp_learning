@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\79085\source\repos\cpp_study\Native_Library\ExportLibrary\dllmain.cpp(16,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79085\source\repos\cpp_study\Native_Library\ExportLibrary\dllmain.cpp(31,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ExportLibrary.vcxproj -> C:\Users\79085\source\repos\cpp_study\Native_Library\x64\Debug\ExportLibrary.dll

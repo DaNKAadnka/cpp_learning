@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека C:\Users\79085\source\repos\cpp_study\Native_Library\Debug\ExportLibrary.lib и объект C:\Users\79085\source\repos\cpp_study\Native_Library\Debug\ExportLibrary.exp
+  ExportLibrary.vcxproj -> C:\Users\79085\source\repos\cpp_study\Native_Library\Debug\ExportLibrary.dll

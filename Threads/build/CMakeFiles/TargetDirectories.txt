@@ -1,0 +1,5 @@
+C:/Users/79085/source/repos/cpp_study/Threads/build/CMakeFiles/threads_init.dir
+C:/Users/79085/source/repos/cpp_study/Threads/build/CMakeFiles/threads_join.dir
+C:/Users/79085/source/repos/cpp_study/Threads/build/CMakeFiles/threads_mutex.dir
+C:/Users/79085/source/repos/cpp_study/Threads/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/79085/source/repos/cpp_study/Threads/build/CMakeFiles/ZERO_CHECK.dir

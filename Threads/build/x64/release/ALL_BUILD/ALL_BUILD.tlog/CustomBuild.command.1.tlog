@@ -1,0 +1,10 @@
+^C:\USERS\79085\SOURCE\REPOS\CPP_STUDY\THREADS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/79085/source/repos/cpp_study/Threads -BC:/Users/79085/source/repos/cpp_study/Threads/build --check-stamp-file C:/Users/79085/source/repos/cpp_study/Threads/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

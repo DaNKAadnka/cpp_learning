@@ -1,0 +1,10 @@
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\$(SolutionDir)Build\$(Platform)\$(Configuration)\ConsoleApp1.exe.config
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\$(SolutionDir)Build\$(Platform)\$(Configuration)\ConsoleApp1.exe
+C:\Users\79085\source\repos\cpp_study\Native_Library\ConsoleApp1\$(SolutionDir)Build\$(Platform)\$(Configuration)\ConsoleApp1.pdb
