@@ -1,0 +1,5 @@
+<PropertyGroup Label="UserMacros">
+	<RepositoryRoot>$(SolutionDir)\..</RepositoryRoot>
+	<LibsRoot>$(SolutionDir)\libs</LibsRoot>
+	<ProtobufRoot>$(LibsRoot)\protobuf\src</>
+</PropertyGroup>
